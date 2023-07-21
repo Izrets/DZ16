@@ -1,0 +1,3 @@
+[2023-07-21 12:05:20,339 - INFO - <browser>: Браузер Chrome запущен]
+[2023-07-21 12:05:21,593 - INFO - <test_signin_page>: Start testing: test_signIn]
+[2023-07-21 12:05:21,594 - INFO - <browser>: Переход по заданному URL: https://cloud.scylladb.com/account/login]

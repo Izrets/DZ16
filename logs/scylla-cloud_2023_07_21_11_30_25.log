@@ -1,0 +1,4 @@
+[2023-07-21 11:30:25,330 - INFO - <browser>: Браузер Chrome запущен]
+[2023-07-21 11:30:26,580 - INFO - <test_signup_page>: Запуск тестирования: test_signUp]
+[2023-07-21 11:30:26,580 - INFO - <browser>: Переход по заданному URL: https://cloud.scylladb.com/account/sign-up]
+[2023-07-21 11:30:30,004 - INFO - <_init_>: Начинаем регистрацию]
